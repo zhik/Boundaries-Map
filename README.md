@@ -78,6 +78,11 @@ Most of the data for Boundaries Map is stored in BetaNYC's carto account.
   - Shapefile of Business Improvement Districts
   - [Published](https://data.cityofnewyork.us/Business/Business-Improvement-Districts/ejxk-d93y) on the NYC Open Data Portal
 
+- `zipcode`
+
+  - Shapefile of Zip Code Boundaries
+  - [Published](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u) on the NYC Open Data Portal
+
 ### Carto.js v4
 
 We use Carto.js to create and style map layers from data stored in the BetaNYC Carto account.
